@@ -1,0 +1,1 @@
+Liferay.Service.register("Liferay.Service.RKG", "me.rkg.plugins.service", "mvn-service-builder-sample-portlet");
